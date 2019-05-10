@@ -26,7 +26,10 @@
     "siteFonts": [],
     "uniqCompNum": 6,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "true",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
